@@ -10,7 +10,7 @@
 </p>
 
 # 💫 About Me:
- 🔭 I’m currently working on developing engaging web applications with a strong focus on user experience, performance optimization, and captivating animations<br><br>👯 I'm open to collaborating on a variety of front-end projects, from building interactive web applications to designing visually appealing user interfaces.<br><br>🌱 I’m currently refining my animation skills, specializing in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations.<br>💬 Happy to help with front-end development questions!<br><br>⚡ Fun fact: I have a soft spot for anime and believe it's a great source of inspiration for creative design.
+ 🔭 Currently working on developing engaging web applications with a strong focus on user experience, performance optimization, and captivating animations<br><br>👯 I'm open to collaborating on a variety of front-end projects, from building interactive web applications to designing visually appealing user interfaces.<br><br>🌱 Refining my animation skills, specializing in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations.<br><br>💬 Happy to help with front-end questions,<span style="color💙"> hamza.shahzad.8692@gmail.com <span/><br><br>⚡ Fun fact: I have a soft spot for anime and believe it's a great source of inspiration for creative design.
 
 
 ## 🌐 Socials:
@@ -23,7 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhamsha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamsha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
