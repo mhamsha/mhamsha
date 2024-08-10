@@ -1,4 +1,4 @@
-<img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
+<img src="/assets/ezgif.com-gif-maker.gif" alt="banner">
  
    
 <p align="center">
