@@ -1,6 +1,11 @@
-## Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Greetings!, I'm Hamza Shahzad!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+I'm passionate FrontEnd developer from PAKISTAN.
+s
 # 💫 About Me:
-🔭 I’m currently working on developing engaging single-page applications that prioritize user experience. My focus is on crafting intuitive interfaces, delivering smooth animations, and optimizing performance. I enjoy tackling complex problems and turning ideas into full-fledged applications, often leveraging BAAS platforms like Appwrite for efficient development<br>👯 I'm open to collaborating on a variety of front-end projects, from building interactive web applications to designing visually appealing user interfaces.<br>🌱 I’m currently refining my animation skills, specializing in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations.<br>💬 Happy to help with front-end development questions!<br>⚡ Fun fact: I have a soft spot for anime and believe it's a great source of inspiration for creative design.
+ 🔭 I’m currently working on developing engaging web applications with a strong focus on user experience, performance optimization, and captivating animations<br><br>👯 I'm open to collaborating on a variety of front-end projects, from building interactive web applications to designing visually appealing user interfaces.<br><br>🌱 I’m currently refining my animation skills, specializing in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations.<br>💬 Happy to help with front-end development questions!<br><br>⚡ Fun fact: I have a soft spot for anime and believe it's a great source of inspiration for creative design.
 
 
 ## 🌐 Socials:
