@@ -1,9 +1,15 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Greetings!, I'm Hamza Shahzad!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+<img src="./assets/ezgif.com-gif-maker.gif" alt="banner">
+ 
+   
+<p align="center">
+  <a href="https://github.com/codeashing">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Hamza+Shazad" alt="Jonah Lawrence" /></a>
 
-I'm passionate FrontEnd developer from PAKISTAN.
-s
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+FrontEnd+Developer+based+in+PAKISTAN!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 # 💫 About Me:
  🔭 I’m currently working on developing engaging web applications with a strong focus on user experience, performance optimization, and captivating animations<br><br>👯 I'm open to collaborating on a variety of front-end projects, from building interactive web applications to designing visually appealing user interfaces.<br><br>🌱 I’m currently refining my animation skills, specializing in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations.<br>💬 Happy to help with front-end development questions!<br><br>⚡ Fun fact: I have a soft spot for anime and believe it's a great source of inspiration for creative design.
 
